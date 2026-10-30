@@ -1,0 +1,3 @@
+This repo is for my self project on F1 data analysis using FastF1 as a data source
+The code is in "F1TelemetryAnalysis" with all the graphs saved
+The project is still on going...
